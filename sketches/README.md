@@ -1,5 +1,5 @@
 # Sketches
 
-![!!!Caption for image!!!](!!!filename.png!!!)
+[basic interface](sketch.png)
 
-!!!Give context by explaining each sketch image!!!
+Main page displays last screenshot and settings / file save option, other diagrams depict app behavior when screenshotting.
