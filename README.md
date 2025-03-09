@@ -20,7 +20,12 @@ Snapshot is an application designed for Windows that allows users to extract tex
 
 **Executive Summary**
 
-!!!Put phase I Executive Summary here!!!
+* Competitive Analysis highlighted the lack of free OCR applications across all platforms. Users are required to pay a subscription fee in order to use an OCR feature.
+* Conducting Heuristic evaluation revealed a major weakness in error prevention in our closest competitor 
+* Users should have the ability to confirm the proposed text from our application
+* Personas and Scenarios found our users to value time and simplicity. Our application must prioritize:
+    * Easy-to-follow UI
+    * Fast responses
 
 [Full phase I report](phaseI/)
 
