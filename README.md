@@ -1,13 +1,13 @@
 !!! NOTE: Delete all parts of this file surrounded by three exclamation marks (including the exclamation marks themselves) and replace them with the appropriate content -- they are only instructions and shouldn't be in your report!!!
 
-# !!!Project Name!!!
+# Snapshot
 
-!!!Brief introduction to the project and the problem it is intended to solve!!!
+Snapshot is an application designed for Windows that allows users to extract text from a image using screen shots. This free tool is useful for anyone looking to quickly copy text from documents, presentations, and web pages without the need for manual typing.
 
 ## UX Team Members
 
-* **[!!!Person A name!!!](!!!URL to Person A's published UX journal!!!)** - !!!List of Person A's primary contributions!!!
-* **[!!!Person B name!!!](!!!URL to Person B's published UX journal!!!)** - !!!List of Person B's primary contributions!!!
+* **[Bryant Hernandez](!!!URL to Person A's published UX journal!!!)** - !!!List of Person A's primary contributions!!!
+* **[Tyler Wenke](!!!URL to Person B's published UX journal!!!)** - !!!List of Person B's primary contributions!!!
 * **[!!!Person C name!!!](!!!URL to Person C's published UX journal!!!)** - !!!List of Person C's primary contributions!!!
 
 # User-Centered Design Artifacts
