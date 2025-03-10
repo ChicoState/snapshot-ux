@@ -24,7 +24,7 @@ Our personas and scenarios gave us a better understanding of customer desires fo
 
 ## Conclusions
 
-!!! Discoveries derived from the methods and their findings. Interpret how the findings translate into new insights into UX design recommendations. Describe those recommendations and how they should shape future work. In this section, include the new design recommendations based on the latest user insights. !!!
+The UX team was able to determine through our evaluations that; our users main need is for a simple application that is quick to use and practical. This means simple controls and features that are easy to use and understand. We have also determined that we have many competitors that can perform OCR however these competitors lack a streamlined way to get text that you can see on screen into text format, this is the main problem we should target with our application.
 
 ## Caveats
 
