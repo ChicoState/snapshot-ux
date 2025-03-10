@@ -28,6 +28,4 @@ Our personas and scenarios gave us a better understanding of customer desires fo
 
 ## Caveats
 
-Our team faced several limitations due to our methods. For example, the majority of our competitors required a paid subscription in order to use their product which limited our team's ability to conduct a thorough analysis of our competition. This resulted in having a poor candidate for Heuristic Evaluation and poor view of the market.
-
-!!! Considerations and/or limitations to the methods you chose and the findings/conclusions drawn from them. In other words, give warnings if there are limitations to your research such as not being able to find enough users of a particular demographic, the methods not being able to expose certain information, assumptions you made, etc. !!!
+Our team faced several limitations due to our methods. For example, the majority of our competitors required a paid subscription in order to use their product which limited our team's ability to conduct a thorough analysis of our competition. This resulted in having a poor candidate for Heuristic Evaluation and poor view of the market. Our team size of 2 and inexperience also played a factor that influenced our results. The majority of our resources and time is focused researching these topics that otherwise might be spent on a deeper and thoughtful analysis.
