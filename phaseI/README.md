@@ -6,11 +6,21 @@ Snapshot is an application designed for Windows that allows users to extract tex
 
 ## Methods
 
-!!! Describe research methods you used to discover new insights, which explains the purpose of each. Provide enough detail that someone would be able to faithfully reproduce your research. Only include research methods in here, not design documents/techniques/artifacts !!!
+The UX-team used multiple research methods to get an understanding of similar applications on the market and to better understand the needs of our users. These methods included; competitive analysis, heuristic evaluation, and the creation of personas & scenarios.
+
+Competitive analysis was done by selecting three competitors and evaluating them based on their strengths, weaknesses, quality, price, and the platforms these competitors were available on. The products chosen were; ChatGPT, Adobe Acrobat Pro, and Preview.
+
+Heuristic evaluation was done by selecting a competitor, Chat-GPT, and rating their application on a set of criteria from 1 to 10. We took notes on the strengths and weaknesses of the application for each heuristic so we could better learn our aplication’s niche in the market. 
+
+The UX-team collectively created three personas along with three scenarios corresponding to these personas. Each persona had an image, name, and detailed description of their personality. Scenarios contained the name of the corresponding persona along with information about the task the user wanted to accomplish.   
 
 ## Findings
 
-!!! For each research method, detail each of the findings to clarify new discoveries of users' needs !!!
+Competitive analysis gave us a better understanding of the niche that our application would fill, there are many other applications that accomplish similar tasks to Snapshot however they all lack in ease and speed of use.
+
+Through our heuristic evaluations we were able to determine that ChatGPT was very good at performing OCR and was very easy to use, however the process was not streamlined for the specific goal of quickly generating text that can be seen on screen. 
+
+Our personas and scenarios gave us a better understanding of customer desires for our application. These mostly focused on the speed and practicality of our application as well as ease of use.
 
 ## Conclusions
 
