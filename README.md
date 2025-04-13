@@ -31,7 +31,14 @@ Snapshot is an application designed for Windows that allows users to extract tex
 
 **Executive Summary**
 
-!!!Put phase II Executive Summary here!!!
+* **Informal feedback** illustrated new and improved functionalities our application could provide such as:
+   * Mathematical formula and symbol recognition: users will be able to copy and paste several math equations and symbols instead of manually typing them
+   * Improved interface and smaller window size: users will have a smaller pop-up screen and interface similar to the windows snipping tool to allow for easier navigation and identification of buttons
+* **Cognitive Walkthrough** revealed some basic tasks were difficult or impossible to complete due to a lack of functionality or unusual button appearances. These tasks include saving a file, searching for a specific file , and locating the settings page.
+* Wireframes were thoughtfully and accurately modified to align with user feedback and satisfaction by:
+   * Modifying UI to be more similar to windows snipping tool
+	* Displaying a smaller window size 
+	* Changing the appearances of certain buttons to be more apparent 
 
 [Full phase II report](phaseII/)
 
