@@ -16,7 +16,7 @@ Following the analysis of our Cognitive Walkthrough results, several issues were
 
 ## Conclusions
 
-The Cognitive Walkthrough highlighted key usability issues related to navigation, functionality expectations, and labeling. Users struggled to locate the settings page, expected a search feature for saved files, and experienced confusion due to unclear page labels. These findings suggest the need for clearer navigation paths, the addition of a search function, and more descriptive labeling. Future design iterations should prioritize these improvements to enhance overall usability and align the interface with user expectations.
+The Cognitive Walkthrough revealed key usability issues related to navigation clarity, unmet user expectations for functionality, and insufficient page labeling. Participants consistently struggled to locate the settings page, indicating that critical navigation elements were not easily discoverable. This can be addressed by repositioning the settings icon to a more prominent location and using universally recognized symbols. Users also expected a search functionality to browse through saved files, suggesting that implementing a searchable file management feature would better support efficient task completion. Additionally, the lack of clear page labeling caused user confusion and uncertainty about whether they had navigated to the correct location. This can be mitigated by incorporating descriptive headers and visual indicators on each page. Together, these findings suggest a misalignment between the current interface and user mental models. Future design models should incorporate these specific improvements and undergo additional usability testing to ensure the interface meets user expectations.
 
 ## Caveats
 
