@@ -18,4 +18,6 @@ Snapshot is an application designed for Windows that allows users to extract tex
 
 ## Caveats
 
+It is important to consider the inexperience of the team members (x=2) as our wireframes could have more accurately represented the flow of our application which had a direct impact on our cognitive walkthroughs. This resulted in confusion and a poor reflection of our screen flow.
+
 !!! Considerations and/or limitations to the methods you chose and the findings/conclusions drawn from them. In other words, give warnings if there are limitations to your research such as not being able to find enough users of a particular demographic, the methods not being able to expose certain information, assumptions you made, etc. !!!
