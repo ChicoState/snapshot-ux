@@ -12,14 +12,13 @@ Informal feedback was given after our live demo was presented to a class of soft
 
 ## Findings
 
-!!! For each research method, detail each of the findings to clarify new discoveries of users' needs !!!
+Following the analysis of our Cognitive Walkthrough results, several issues were identified, concerning the location of the settings page, user expectations regarding functionality, and navigation challenges. Participants experienced difficulty locating the settings page, which affected their ability to successfully complete a task. Some users expected the presence of a search functionality to browse through saved files. Finally, certain pages lacked clear labeling, resulting in confusion among users about whether they had made the right decision.
 
 ## Conclusions
 
-!!! Discoveries derived from the methods and their findings. Interpret how the findings translate into new insights into UX design recommendations. Describe those recommendations and how they should shape future work. In this section, include the new design recommendations based on the latest user insights. !!!
+The Cognitive Walkthrough highlighted key usability issues related to navigation, functionality expectations, and labeling. Users struggled to locate the settings page, expected a search feature for saved files, and experienced confusion due to unclear page labels. These findings suggest the need for clearer navigation paths, the addition of a search function, and more descriptive labeling. Future design iterations should prioritize these improvements to enhance overall usability and align the interface with user expectations.
 
 ## Caveats
 
-It is important to consider the inexperience of the team members (n=2) as our wireframes could have more accurately represented the flow of our application which had a direct impact on our cognitive walkthroughs. This resulted in confusion and a poor reflection of our screen flow.
+It is important to consider the inexperience of the team members (n=2) as our wireframes could have represented the flow of our application more accurately which had a negative impact on our Cognitive Walkthroughs. This resulted in confusion completing tasks and a poor reflection of our screen flow. As previously mentioned, inexperienced UX students were selected to conduct Cognitive Walkthroughs on our app which could have impacted our results. They could have potentially missed important details or focused on the wrong things.
 
-!!! Considerations and/or limitations to the methods you chose and the findings/conclusions drawn from them. In other words, give warnings if there are limitations to your research such as not being able to find enough users of a particular demographic, the methods not being able to expose certain information, assumptions you made, etc. !!!
