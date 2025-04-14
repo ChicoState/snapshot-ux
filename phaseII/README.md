@@ -2,7 +2,7 @@
 
 ## Introduction
 
-!!! Describe the general problem that the project is trying to solve and the focus of this interval of work !!!
+Snapshot is an application designed for Windows that allows users to extract text from a image using screen shots. This free tool is useful for anyone looking to quickly copy text from documents, presentations, and web pages without the need for manual typing. For this phase, our team focused on improving user interaction and identifying potential issues through Cognitive Walkthroughs and Informal feedback.
 
 ## Methods
 
