@@ -11,13 +11,13 @@ Then the user will click and drag the cursor to their desired area to copy text 
 ## Snapshot
 
 Default page will display basic functions such as settings, exit page, and folder. It also shows the user the copied text in a text file ready to be exported.
-![default_page]("Main Homepage.png")
+![default_page](Main%20Homepage.png)
 
 Setting page allows the users to set certain functions to their preference
 ![settings_page](settings.png)
 
 Folder page will give the user the option to look through previous saved files
-![Folder_page]("file select.png")
+![Folder_page](file%20select.png)
 
 
 
