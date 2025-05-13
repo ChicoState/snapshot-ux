@@ -46,6 +46,12 @@ Snapshot is an application designed for Windows that allows users to extract tex
 
 **Executive Summary**
 
-!!!Put phase II Executive Summary here!!!
+* Usability testing revealed some key issues in the flow of our design such as:
+	* Organization between settings and file save menus 
+	* Lack of feedback with multiple processes 
+	* Lack of “help” page describing the main page
+
+* We concluded, following these tests, that our design needs reorganization and better feedback to better accommodate our customers.
+
 
 [Full phase III report](phaseIII/)
