@@ -5,14 +5,14 @@ Snapshot is an application designed for Windows that allows users to extract tex
 ## UX Team Members
 
 * **[Bryant Hernandez](https://usabilityengineering.github.io/ux-journal-BHM03/)** - Analysis and Evaluations, Wireframes
-* **[Tyler Wenke](https://usabilityengineering.github.io/portfolio-csugetacc/)** - Personas, Scenerios, Analysis
+* **[Tyler Wenke](https://usabilityengineering.github.io/portfolio-csugetacc/)** - Personas, Scenerios, Analysis, Wireframes, Usability test moderator
 
 # User-Centered Design Artifacts
 
 * [Personas and Scenarios](personas/)
 * [Sketches and Diagrams](sketches/)
 * [Wireframes](wireframes/)
-* [Prototype](#)
+* [Prototype](Prototype/)
 
 # Phase I: Analyzing Users, Competitors, and Initial Designs
 
